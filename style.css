@@ -139,6 +139,7 @@ img {
 }
 #location{
     display: flex;
+    height : 295px;
     align-items: center;
     font-size: 14px;
     gap: 10px;
